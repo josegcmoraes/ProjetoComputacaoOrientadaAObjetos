@@ -13,7 +13,24 @@
 * definiu Funções de cadastro, remoção, alteração,
 
 ### Exemplo de execução
-![](img%20multi/multi_dominance.png)
+```
+* Menu Principal e cadastrar produto
+```
+![](img%20proj%20computacao%20oo/sin141MenuPrincipal.png)
 
+```
+* Cadastrar um cliente
+```
+![](img%20proj%20computacao%20oo/imgSIN141Menu.png)
+
+```
+* Alterar dados do cliente
+```
+![](img%20proj%20computacao%20oo/imgSIN141Alterar.png)
+
+```
+* Cadastrar venda
+```
+![](img%20proj%20computacao%20oo/imgSIN141CadastrarVenda.png)
 
 #### Por José Geraldo
